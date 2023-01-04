@@ -1,5 +1,4 @@
-# DS-ML_MCAS3
-Academic lab programs for Data Science and Machine Learning
+
 
 PROGRAMS
 -----------
